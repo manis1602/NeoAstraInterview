@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NeoAstraInterview</string>
+    <string name="neoastra">NeoAstra</string>
+    <string name="file_open_icon">File Open Icon</string>
+    <string name="save_file_icon">Save File Icon</string>
+    <string name="selected_image_view">Selected Image View</string>
+    <string name="info_icon">Info Icon</string>
+    <string name="crop_main_icon">Crop Main Icon</string>
+    <string name="flip_icon">Flip Icon</string>
+    <string name="flip_vertical_icon">Flip Vertical Icon</string>
+    <string name="flip_horizontal_icon">Flip Horizontal Icon</string>
+</resources>
